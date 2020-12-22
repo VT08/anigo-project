@@ -1,0 +1,4 @@
+management-console/node_modules/
+management-console/public/build/
+
+management-console/.DS_Store
